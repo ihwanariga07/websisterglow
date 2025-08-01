@@ -1,3 +1,4 @@
+@extends('layout.guest')
 @extends('layouts.app')
 
 @section('content')
